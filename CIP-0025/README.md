@@ -23,6 +23,7 @@ License: CC-BY-4.0
 
 -- Change to NOT CIP 10 FILES to skip validation, does this impact?
 -- Change to NOT CIP 10 FILES to skip validation, does this impact?
+-- Change to NOT CIP 10 FILES to skip validation, does this impact?
 This proposal defines an Media Token Metadata Standard for Native Tokens.
 
 ## Motivation: why is this CIP necessary?
